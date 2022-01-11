@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348261337323",
+    "firebase_url": "https://pendeteksi01.firebaseio.com",
+    "project_id": "pendeteksi01",
+    "storage_bucket": "pendeteksi01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348261337323:android:9d6bd855b076473afa56ae",
+        "android_client_info": {
+          "package_name": "com.example.speechtotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348261337323-lokivmv8699k1te6semftcql3fhf9vpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcACBGNYyaoRXZSvxphd0Dz-eUsS4IHvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348261337323-lokivmv8699k1te6semftcql3fhf9vpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
